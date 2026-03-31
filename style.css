@@ -138,6 +138,21 @@
     border-bottom: 1px solid #ddd;
     padding-bottom: 3px;
 }
+.runway-number {
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    text-shadow: 0 0 3px black;
+    text-align: center;
+}
+
+.qfu-label {
+    color: #222;
+    font-size: 11px;
+    font-weight: 600;
+    text-align: center;
+    text-shadow: 0 0 3px rgba(255,255,255,0.8);
+}
 
 #sono-panel {
     width: 240px;
